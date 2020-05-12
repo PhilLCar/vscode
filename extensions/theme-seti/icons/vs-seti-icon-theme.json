@@ -128,11 +128,11 @@
 		},
 		"_csr_2_light": {
 			"fontCharacter": "\\E09C",
-			"fontColor": "#b7b73b"
+			"fontColor": "#008000"
 		},
 		"_csr_2": {
 			"fontCharacter": "\\E09C",
-			"fontColor": "#cbcb41"
+			"fontColor": "#3cb371"
 		},
 		"_cake_light": {
 			"fontCharacter": "\\E00B",
@@ -1408,6 +1408,7 @@
 		"s": "_asm",
 		"h": "_c_1",
 		"hsr": "_csr_1",
+		"psr": "_csr_2",
 		"aspx": "_html",
 		"ascx": "_html_1",
 		"asax": "_html_2",
@@ -1738,6 +1739,7 @@
 			"s": "_asm_light",
 			"h": "_c_1_light",
 			"hsr": "_csr_1_light",
+			"psr": "_csr_2_light",
 			"aspx": "_html_light",
 			"ascx": "_html_1_light",
 			"asax": "_html_2_light",
